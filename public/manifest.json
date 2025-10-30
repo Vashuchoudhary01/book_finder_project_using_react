@@ -1,0 +1,15 @@
+{
+  "short_name": "BookFinder",
+  "name": "Book Finder App",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/29/29302.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1d4ed8",
+  "background_color": "#ffffff"
+}
